@@ -34,3 +34,26 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# ToDo List
+
+A ToDo listing CRUD app created using Nextjs and TypeScript.
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+## Authors
+
+- [@Alister](https://www.github.com/Alister1210)
+
+## Screenshots
+
+![App Screenshot](./1.png)
+![App Screenshot](./2.png)
+![App Screenshot](./3.png)
+![App Screenshot](./4.png)
+![App Screenshot](./5.png)
