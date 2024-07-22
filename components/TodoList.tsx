@@ -11,7 +11,7 @@ const TodoList: React.FC<TodoListProps> = ({ tasks }) => {
     <div className="overflow-x-auto">
       <table className="table">
         {/* head */}
-        <thead className="text-center font-bold text-lg bg-slate-200 ">
+        <thead className=" font-bold text-lg bg-slate-200 ">
           <tr>
             <th>Tasks</th>
             <th>Action</th>
